@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.container {
+  max-width: 807px;
+  margin: 10px auto 0;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.new-point {
+  padding: 13px;
+}
+
+.left {
+  margin-right: 10px;
+  width: 400px;
+  margin-bottom: 20px;
+}
+
+.map {
+  max-width: 100px;
+}
